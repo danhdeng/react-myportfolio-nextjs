@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Personal Web Portofilo built with React, NextJS and Styled-Components
