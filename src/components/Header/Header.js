@@ -23,17 +23,17 @@ const Header = () => (
     </Div1>
     <Div2>
       <li>
-        <Link href="#projects">
+        <Link passHref href="#projects">
           <NavLink>Projects</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#tech">
+        <Link passHref href="#tech">
           <NavLink>Technologies</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#about">
+        <Link passHref href="#about">
           <NavLink>About</NavLink>
         </Link>
       </li>
@@ -42,7 +42,7 @@ const Header = () => (
       <SocialIcons href="https://www.github.com/danhdeng">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/danhuideng">
+      <SocialIcons href="https://www.linkedin.com/in/danhuideng">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://www.instagram.com/danhdeng">
